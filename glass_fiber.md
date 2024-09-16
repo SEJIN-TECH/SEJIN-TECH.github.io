@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 유리 섬유란?
+title:
 ---
 ### glass-fiber?
 
