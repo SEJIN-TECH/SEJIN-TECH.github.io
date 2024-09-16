@@ -7,7 +7,7 @@ cover-img: /assets/img/title_img.jpg
 
 <br/>
 
-## 회사 소개
+## CEO 인사말
 
 ![img](/assets/img/owner.jpg)
 
