@@ -2,7 +2,7 @@
 layout: page
 title: (주)세진 테크
 subtitle: 유리섬유 단열제, 흡음제 제조 및 가공 
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/title_img.jpg
 ---
 
 <br/>
