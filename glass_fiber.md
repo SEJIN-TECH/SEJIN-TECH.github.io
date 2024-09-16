@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: 유리 섬유란?
 ---
 ## 유리 섬유를 이용한 단열제 및 흡음제
 
