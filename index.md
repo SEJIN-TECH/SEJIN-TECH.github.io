@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: (주)세진 테크
+subtitle: 유리섬유 단열제, 흡음제 제조 및 가공 
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
