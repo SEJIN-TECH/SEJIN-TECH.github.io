@@ -14,7 +14,7 @@ author: Dae-guen Shin
 navbar-links:
   유리 섬유란?: "glass_fiber"
   공정 과정 : "공정 과정"
-  제품 소개: "https://github.com/SEJIN-TECH"
+  제품 소개: "제품 소개"
   Contact us: "Contact"
 
 
@@ -34,10 +34,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "tnsehf54@gmail.com"
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
