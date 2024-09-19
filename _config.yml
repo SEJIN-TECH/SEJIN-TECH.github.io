@@ -12,7 +12,6 @@ author: Dae-guen Shin
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  회사 소개: "Contact"
   유리 섬유란?: "glass_fiber"
   공정 과정 : "공정 과정"
   제품 소개: "https://github.com/SEJIN-TECH"
